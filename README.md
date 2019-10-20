@@ -1,1 +1,1 @@
-# Gridsome Blog
+# gridsome-blog
